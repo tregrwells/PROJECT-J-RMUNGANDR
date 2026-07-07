@@ -5,6 +5,7 @@
 ![Status](https://img.shields.io/badge/Status-Complete%20–%20Ready%20for%20Implementation-brightgreen)
 ![Version](https://img.shields.io/badge/Version-2.4-blue)
 ![License](https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21244535.svg)](https://doi.org/10.5281/zenodo.21244535)
 
 ---
 
@@ -116,9 +117,13 @@ Under the following terms:
 
 ## Citation
 
-If you use or reference this work, please cite it as:
+The official, citable version of this document is available on Zenodo:
 
-> Wells, Treg Robert. (2026). *Project Jörmungandr – Consolidated Master Document (V2.4)*. Zenodo. [DOI pending]
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21244535.svg)](https://doi.org/10.5281/zenodo.21244535)
+
+> Wells, Treg Robert. (2026). *Project Jörmungandr – Consolidated Master Document (V2.4)*. Zenodo. [https://doi.org/10.5281/zenodo.21244535](https://doi.org/10.5281/zenodo.21244535)
+
+This GitHub repository is a mirror for accessibility and collaboration. For citation purposes, please reference the Zenodo version.
 
 ---
 
