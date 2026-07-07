@@ -43,7 +43,7 @@ No other ocean cleanup project does chemical fingerprinting + backtracking + pub
 
 | Document | Description | Status |
 |----------|-------------|--------|
-| [**Project Jörmungandr – Consolidated Master Document (V2.4)**](./PROJECT_JORMUNGANDR_V2.4.pdf) | Complete systems architecture & implementation framework | **Ready for Implementation** |
+| [**Project Jörmungandr – Consolidated Master Document (V2.4)**](./PROJECT_JÖRMUNGANDR_V2.4.pdf) | Complete systems architecture & implementation framework | **Ready for Implementation** |
 | Executive Summary (coming soon) | 2-page standalone summary for funders and partners | In Progress |
 
 The master document contains:
