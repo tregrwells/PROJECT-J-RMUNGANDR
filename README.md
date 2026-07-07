@@ -85,7 +85,7 @@ The master document contains:
 
 - `README.md` – This file
 - `PROJECT_JORMUNGANDR_V2.4.pdf` – Complete master document
-- `EXECUTIVE_SUMMARY_V1.0.pdf` – Standalone summary (coming soon)
+- `EXECUTIVE_SUMMARY_V1.0.pdf` – Standalone summary
 - `assets/` – Diagrams and figures (coming soon)
 
 ---
