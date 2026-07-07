@@ -1,0 +1,23 @@
+cff-version: 1.2.0
+message: "If you use this work, please cite it as follows."
+authors:
+  - family-names: "Wells"
+    given-names: "Treg Robert"
+    orcid: "https://orcid.org/0009-0009-7660-4250"
+  - name: "Corvid"
+    note: "Named AI Collaborator"
+title: "Project Jörmungandr – Consolidated Master Document"
+version: 2.4
+date-released: 2026-07-06
+doi: 10.5281/zenodo.21244535
+url: "https://doi.org/10.5281/zenodo.21244535"
+repository-code: "https://github.com/tregrwells/PROJECT-JORMUNGANDR"
+license: "CC-BY-SA-4.0"
+keywords:
+  - ocean-restoration
+  - plastic-pollution
+  - marine-conservation
+  - circular-economy
+  - public-utility
+  - open-science
+type: "report"
